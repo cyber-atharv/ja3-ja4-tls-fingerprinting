@@ -11,3 +11,6 @@ All notable changes to ja3-ja4-tls-fingerprinting will be documented in this fil
 ## [0.1.2] - 2026-01-08
 - feat: add JA4 suite support (JA4, JA4H, JA4T, JA4X) with zero-copy parser
 
+## [0.1.3] - 2026-01-11
+- perf: optimize hash computation pipeline for multi-gigabit PCAP streams
+
