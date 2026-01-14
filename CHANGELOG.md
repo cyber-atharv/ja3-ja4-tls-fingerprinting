@@ -14,3 +14,6 @@ All notable changes to ja3-ja4-tls-fingerprinting will be documented in this fil
 ## [0.1.3] - 2026-01-11
 - perf: optimize hash computation pipeline for multi-gigabit PCAP streams
 
+## [0.1.4] - 2026-01-14
+- docs: document threat intelligence lookup integration
+
